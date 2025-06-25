@@ -1,0 +1,104 @@
+{
+    "DatabaseId": 2543371946,
+    "Number": 1,
+    "State": "OPEN",
+    "Title": "Test branch pull request",
+    "IsDraft": false,
+    "Body": "",
+    "Url": "https://github.com/tokarskaa/devlake-test/pull/1",
+    "Labels": {
+        "Nodes": []
+    },
+    "Author": {
+        "Login": "tokarskaa",
+        "Id": 25040003,
+        "Name": "Alicja Tokarska ",
+        "Company": "",
+        "Email": "tokarskaala@gmail.com",
+        "AvatarUrl": "https://avatars.githubusercontent.com/u/25040003?v=4",
+        "HtmlUrl": "https://github.com/tokarskaa"
+    },
+    "Assignees": {
+        "Assignees": []
+    },
+    "ClosedAt": null,
+    "MergedAt": null,
+    "UpdatedAt": "2025-05-26T08:21:32Z",
+    "CreatedAt": "2025-05-26T08:21:32Z",
+    "MergeCommit": null,
+    "HeadRefName": "test-branch",
+    "HeadRefOid": "2a33f9176c2ec212be40a892a8991334217d1dbb",
+    "BaseRefName": "master",
+    "BaseRefOid": "8ecdd9db2eee75f1b1df8e395614e9f080d26ee1",
+    "Commits": {
+        "PageInfo": {
+            "endCursor": "Mg",
+            "hasNextPage": false
+        },
+        "Nodes": [
+            {
+                "Commit": {
+                    "Oid": "1bf5386ac2a0b009b5fcc9df738f191aa5aa9c06",
+                    "Message": "add some changes",
+                    "Author": {
+                        "Name": "tokarskaa",
+                        "Email": "tokarskaala@gmail.com",
+                        "Date": "2025-05-26T09:51:43+02:00",
+                        "User": {
+                            "Login": "tokarskaa",
+                            "Id": 25040003,
+                            "Name": "Alicja Tokarska ",
+                            "Company": "",
+                            "Email": "tokarskaala@gmail.com",
+                            "AvatarUrl": "https://avatars.githubusercontent.com/u/25040003?v=4",
+                            "HtmlUrl": "https://github.com/tokarskaa"
+                        }
+                    },
+                    "Committer": {
+                        "Date": "2025-05-26T09:51:43+02:00",
+                        "Email": "tokarskaala@gmail.com",
+                        "Name": "tokarskaa"
+                    }
+                },
+                "Url": "https://github.com/tokarskaa/devlake-test/pull/1/commits/1bf5386ac2a0b009b5fcc9df738f191aa5aa9c06"
+            },
+            {
+                "Commit": {
+                    "Oid": "2a33f9176c2ec212be40a892a8991334217d1dbb",
+                    "Message": "changes in readme",
+                    "Author": {
+                        "Name": "tokarskaa",
+                        "Email": "tokarskaala@gmail.com",
+                        "Date": "2025-05-26T10:18:54+02:00",
+                        "User": {
+                            "Login": "tokarskaa",
+                            "Id": 25040003,
+                            "Name": "Alicja Tokarska ",
+                            "Company": "",
+                            "Email": "tokarskaala@gmail.com",
+                            "AvatarUrl": "https://avatars.githubusercontent.com/u/25040003?v=4",
+                            "HtmlUrl": "https://github.com/tokarskaa"
+                        }
+                    },
+                    "Committer": {
+                        "Date": "2025-05-26T10:18:54+02:00",
+                        "Email": "tokarskaala@gmail.com",
+                        "Name": "tokarskaa"
+                    }
+                },
+                "Url": "https://github.com/tokarskaa/devlake-test/pull/1/commits/2a33f9176c2ec212be40a892a8991334217d1dbb"
+            }
+        ],
+        "TotalCount": 2
+    },
+    "Reviews": {
+        "TotalCount": 0,
+        "Nodes": []
+    },
+    "Additions": 5,
+    "Deletions": 1,
+    "MergedBy": null,
+    "ReviewRequests": {
+        "Nodes": []
+    }
+}
