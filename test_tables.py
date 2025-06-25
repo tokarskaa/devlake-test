@@ -1,6 +1,7 @@
 import mysql.connector
 
 # MySQL connection info — edit these!
+# fourth branch comment
 config = {
     'user': 'merico',
     'password': 'merico',
